@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(
-    name='pytorch-nce',
+    name='pytorch-nce2',
     version='0.0.1',
     author='Kaiyu Shi',
     author_email='skyisno.1@gmail.com',
